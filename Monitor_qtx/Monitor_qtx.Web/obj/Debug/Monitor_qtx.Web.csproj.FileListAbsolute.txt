@@ -234,3 +234,82 @@ C:\Users\大川\Desktop\DCS监控发布\青铜峡\Monitor_qtx\Monitor_qtx.Web\ob
 C:\Users\大川\Desktop\DCS监控发布\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_shell.Infrastructure.dll
 C:\Users\大川\Desktop\DCS监控发布\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_shell.Service.dll
 C:\Users\大川\Desktop\DCS监控发布\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_shell.Web.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll.config
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.pdb
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\SqlServerDataAdapter.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Standard_GB16780-2012.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\StatisticalReport.Infrastructure.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\EnergyConsumption.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.pdb
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.pdb
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.dll
+E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.pdb
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.pdb
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\SqlServerDataAdapter.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\Standard_GB16780-2012.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\StatisticalReport.Infrastructure.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\EnergyConsumption.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.pdb
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.pdb
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.csprojResolveAssemblyReference.cache
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.dll
+E:\贴标签汇总\青铜峡\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\SqlServerDataAdapter.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\Standard_GB16780-2012.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\StatisticalReport.Infrastructure.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\EnergyConsumption.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.csprojResolveAssemblyReference.cache
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡马\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\SqlServerDataAdapter.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Standard_GB16780-2012.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\StatisticalReport.Infrastructure.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\EnergyConsumption.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.pdb
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.csprojResolveAssemblyReference.cache
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.dll
+C:\Users\feng\Desktop\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.pdb
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.pdb
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\SqlServerDataAdapter.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Standard_GB16780-2012.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\StatisticalReport.Infrastructure.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\EnergyConsumption.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.pdb
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.pdb
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.dll
+C:\Users\Administrator\Desktop\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.pdb
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Monitor_qtx.Web.pdb
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\SqlServerDataAdapter.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\Standard_GB16780-2012.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\StatisticalReport.Infrastructure.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\EnergyConsumption.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\AutoSetParameters.pdb
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\bin\mDbDataAdaper.pdb
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.csprojResolveAssemblyReference.cache
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.dll
+E:\研究生\zx\2016.5.30 贴标签汇总\修改汇总\青铜峡new\Monitor_qtx\Monitor_qtx.Web\obj\Debug\Monitor_qtx.Web.pdb

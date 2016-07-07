@@ -6,7 +6,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\大川\Desktop\DCS监控发布\青铜峡\Release</_PublishTargetUrl>
+    <_PublishTargetUrl>E:\NXJC\项目文件\nengyuanDCSjiankong\青铜峡\Release</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/AutoSetParameters.dll">
@@ -25,10 +25,10 @@
       <publishTime>11/03/2014 00:58:52</publishTime>
     </File>
     <File Include="bin/Monitor_qtx.Web.dll">
-      <publishTime>04/29/2016 19:53:29</publishTime>
+      <publishTime>07/07/2016 09:28:53</publishTime>
     </File>
     <File Include="bin/Monitor_shell.Infrastructure.dll">
-      <publishTime>04/25/2016 14:24:41</publishTime>
+      <publishTime>04/22/2016 18:03:04</publishTime>
     </File>
     <File Include="bin/Monitor_shell.Service.dll">
       <publishTime>04/27/2016 16:23:21</publishTime>
@@ -4690,166 +4690,166 @@
       <publishTime>04/27/2016 20:48:17</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_0304snbzgyxt.aspx">
-      <publishTime>04/29/2016 00:03:39</publishTime>
+      <publishTime>07/06/2016 20:57:24</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill01_snfm.aspx">
-      <publishTime>04/28/2016 21:58:03</publishTime>
+      <publishTime>07/06/2016 20:57:23</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill01_snpl.aspx">
-      <publishTime>05/01/2016 18:13:32</publishTime>
+      <publishTime>07/06/2016 20:57:23</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill02_snfm.aspx">
-      <publishTime>05/01/2016 17:33:01</publishTime>
+      <publishTime>07/06/2016 20:58:25</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill02_snpl.aspx">
-      <publishTime>04/28/2016 22:04:21</publishTime>
+      <publishTime>07/06/2016 20:59:06</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill03_snfm.aspx">
-      <publishTime>04/28/2016 22:29:24</publishTime>
+      <publishTime>07/06/2016 20:59:58</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill03_snpl.aspx">
-      <publishTime>04/28/2016 22:29:24</publishTime>
+      <publishTime>07/06/2016 21:05:45</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_mfzbxt.aspx">
-      <publishTime>05/01/2016 17:26:21</publishTime>
+      <publishTime>07/06/2016 21:07:29</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_scytyw.aspx">
-      <publishTime>04/28/2016 22:29:23</publishTime>
+      <publishTime>07/06/2016 21:11:00</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_shspsxt.aspx">
-      <publishTime>04/29/2016 09:26:04</publishTime>
+      <publishTime>07/06/2016 21:12:28</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_slfmjfqcl.aspx">
-      <publishTime>04/29/2016 18:58:56</publishTime>
+      <publishTime>07/06/2016 21:13:38</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_sljhk.aspx">
-      <publishTime>04/29/2016 19:30:49</publishTime>
+      <publishTime>07/06/2016 21:28:07</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_slssxt.aspx">
-      <publishTime>04/28/2016 22:12:58</publishTime>
+      <publishTime>07/06/2016 21:32:30</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_yltpxt.aspx">
-      <publishTime>04/28/2016 22:29:23</publishTime>
+      <publishTime>07/06/2016 21:36:07</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_ytblj.aspx">
-      <publishTime>04/29/2016 19:09:25</publishTime>
+      <publishTime>07/06/2016 21:36:49</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03.aspx">
       <publishTime>04/26/2016 11:53:24</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_mfzbxt.aspx">
-      <publishTime>04/28/2016 21:56:25</publishTime>
+      <publishTime>07/06/2016 21:40:58</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_scytblj.aspx">
-      <publishTime>04/28/2016 22:29:23</publishTime>
+      <publishTime>07/06/2016 21:47:38</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_scytyw.aspx">
       <publishTime>04/28/2016 22:29:23</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_slccjsz.aspx">
-      <publishTime>04/28/2016 22:29:23</publishTime>
+      <publishTime>07/06/2016 21:48:49</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_slfmjfqcl.aspx">
-      <publishTime>04/28/2016 22:29:23</publishTime>
+      <publishTime>05/07/2016 11:12:09</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_sljhk.aspx">
-      <publishTime>04/28/2016 22:29:21</publishTime>
+      <publishTime>07/06/2016 21:57:13</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_slm.aspx">
-      <publishTime>04/28/2016 21:56:25</publishTime>
+      <publishTime>07/06/2016 21:58:42</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_yldcjssxx.aspx">
-      <publishTime>04/28/2016 22:29:17</publishTime>
+      <publishTime>07/06/2016 22:00:06</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_ytblj.aspx">
-      <publishTime>04/28/2016 22:29:12</publishTime>
+      <publishTime>07/06/2016 22:04:20</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_ytyw.aspx">
-      <publishTime>04/28/2016 21:56:25</publishTime>
+      <publishTime>07/06/2016 22:08:52</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_snkxt.aspx">
-      <publishTime>05/01/2016 18:31:43</publishTime>
+      <publishTime>07/06/2016 22:09:28</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/example.aspx">
       <publishTime>03/29/2016 17:55:13</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_cementmill04_snbz.aspx">
-      <publishTime>05/01/2016 17:01:58</publishTime>
+      <publishTime>07/07/2016 08:32:46</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_cementmill04_snfm.aspx">
-      <publishTime>05/01/2016 16:25:30</publishTime>
+      <publishTime>07/07/2016 08:47:09</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_cementmill04_snkxt.aspx">
-      <publishTime>05/01/2016 16:44:59</publishTime>
+      <publishTime>07/07/2016 08:48:33</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_cementmill04_snpl.aspx">
-      <publishTime>04/26/2016 15:36:36</publishTime>
+      <publishTime>07/07/2016 08:49:47</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_bjbb.aspx">
-      <publishTime>05/01/2016 17:12:25</publishTime>
+      <publishTime>07/07/2016 08:53:01</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_mfzb.aspx">
-      <publishTime>04/29/2016 18:44:33</publishTime>
+      <publishTime>07/07/2016 08:53:42</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_scbb.aspx">
-      <publishTime>04/26/2016 19:09:29</publishTime>
+      <publishTime>07/07/2016 08:54:37</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_scytblj.aspx">
-      <publishTime>05/01/2016 15:41:37</publishTime>
+      <publishTime>07/07/2016 08:55:24</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_scyw.aspx">
-      <publishTime>05/01/2016 15:41:38</publishTime>
+      <publishTime>07/07/2016 08:56:31</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_slccysz.aspx">
-      <publishTime>05/01/2016 16:01:53</publishTime>
+      <publishTime>07/07/2016 08:57:25</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_sljh.aspx">
-      <publishTime>05/01/2016 15:28:03</publishTime>
+      <publishTime>07/07/2016 08:59:40</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_ylfm.aspx">
-      <publishTime>05/01/2016 15:05:44</publishTime>
+      <publishTime>07/07/2016 09:01:10</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_yltp.aspx">
-      <publishTime>05/01/2016 11:28:15</publishTime>
+      <publishTime>07/07/2016 09:01:50</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_bilengji.aspx">
-      <publishTime>04/26/2016 17:41:58</publishTime>
+      <publishTime>07/07/2016 09:02:47</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_bjbb.aspx">
-      <publishTime>04/28/2016 16:10:28</publishTime>
+      <publishTime>07/07/2016 09:04:24</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_meifenzhibei.aspx">
-      <publishTime>04/26/2016 17:43:42</publishTime>
+      <publishTime>07/07/2016 09:06:00</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_scbb.aspx">
-      <publishTime>04/28/2016 16:10:28</publishTime>
+      <publishTime>07/07/2016 09:07:53</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shengliaofenmo.aspx">
-      <publishTime>04/26/2016 17:44:49</publishTime>
+      <publishTime>07/07/2016 09:09:03</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shengliaojunhua.aspx">
-      <publishTime>04/27/2016 20:09:43</publishTime>
+      <publishTime>07/07/2016 09:10:37</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shuinibaozhuang.aspx">
-      <publishTime>04/26/2016 11:53:24</publishTime>
+      <publishTime>07/07/2016 09:10:37</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shuinifenmo.aspx">
-      <publishTime>04/26/2016 18:00:49</publishTime>
+      <publishTime>07/07/2016 09:11:24</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shuiniku.aspx">
-      <publishTime>04/26/2016 18:02:21</publishTime>
+      <publishTime>07/07/2016 09:12:06</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shuinitiaopei.aspx">
-      <publishTime>04/26/2016 11:53:24</publishTime>
+      <publishTime>05/05/2016 12:32:49</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_shuliaochucun.aspx">
-      <publishTime>04/26/2016 11:53:24</publishTime>
+      <publishTime>07/07/2016 09:13:44</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_yaotouyaowei.aspx">
-      <publishTime>04/26/2016 14:23:15</publishTime>
+      <publishTime>07/07/2016 09:15:11</publishTime>
     </File>
     <File Include="UI_Monitor/DCSMonitor/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_yuanliaoshusong.aspx">
-      <publishTime>04/28/2016 16:54:39</publishTime>
+      <publishTime>07/07/2016 09:17:46</publishTime>
     </File>
     <File Include="UI_Monitor/images/common/arrowGreenDown.gif">
       <publishTime>04/23/2016 15:38:59</publishTime>
@@ -5032,55 +5032,55 @@
       <publishTime>04/19/2016 11:22:10</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_0304snbzgyxt.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill01_snfm.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill01_snpl.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/23/2016 20:42:56</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill02_snfm.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill02_snpl.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill03_snfm.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill03_snpl.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_mfzbxt.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_scytyw.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_shspsxt.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_slfmjfqcl.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_sljhk.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_slssxt.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_yltpxt.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker02_ytblj.png">
-      <publishTime>04/28/2016 16:49:54</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03.png">
       <publishTime>04/01/2016 17:08:31</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_mfzbxt.png">
-      <publishTime>04/28/2016 17:14:50</publishTime>
+      <publishTime>05/13/2016 16:40:00</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_scytblj.png">
       <publishTime>04/28/2016 16:49:57</publishTime>
@@ -5089,28 +5089,28 @@
       <publishTime>04/28/2016 17:14:50</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_slccjsz.png">
-      <publishTime>04/28/2016 17:14:50</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_slfmjfqcl.png">
       <publishTime>04/28/2016 17:14:50</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_sljhk.png">
-      <publishTime>04/28/2016 17:14:50</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_slm.png">
-      <publishTime>04/28/2016 16:49:57</publishTime>
+      <publishTime>05/23/2016 16:16:40</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_yldcjssxx.png">
-      <publishTime>04/28/2016 17:14:50</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_ytblj.png">
-      <publishTime>04/28/2016 18:44:32</publishTime>
+      <publishTime>05/15/2016 14:56:00</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_clinker03_ytyw.png">
-      <publishTime>04/28/2016 16:52:11</publishTime>
+      <publishTime>05/13/2016 11:14:50</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_snkxt.png">
-      <publishTime>04/28/2016 17:15:45</publishTime>
+      <publishTime>05/10/2016 11:25:49</publishTime>
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_cementmill04_snbz.png">
       <publishTime>04/24/2016 11:48:15</publishTime>
@@ -5189,6 +5189,57 @@
     </File>
     <File Include="UI_Monitor/images/page/DCS/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_yuanliaoshusong.png">
       <publishTime>04/26/2016 11:36:11</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_aircompressor.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_cementmill01.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_cementmill02.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_cementmill03.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_clinker02_sheng.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_clinker02_shu.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_clinker03_sheng.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_efc_clinker03_shu.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_aircompressor.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_cementmill04.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_cementmill05.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_clinker04_sheng.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_clinker04_shu.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_clinker05_sheng.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
+    </File>
+    <File Include="UI_Monitor/images/page/zc_nxjc_qtx_tys_clinker05_shu.png">
+      <publishTime>06/17/2016 10:39:39</publishTime>
     </File>
     <File Include="UI_Monitor/js/common/alarm.js">
       <publishTime>04/23/2016 16:39:10</publishTime>
@@ -5299,7 +5350,7 @@
       <publishTime>10/07/2015 14:51:49</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/28/2016 23:11:12</publishTime>
+      <publishTime>07/07/2016 09:28:57</publishTime>
     </File>
   </ItemGroup>
 </Project>

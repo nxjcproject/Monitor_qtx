@@ -42,11 +42,8 @@
 
 <body id="SubMonitorBody" style="margin: 0px; padding: 0px; overflow: auto;">
     <div id="SubMonitorLayout" style="position: relative; background-image: url('../../images/page/DCS/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker04_bjbb.png');width: 1557px; height: 806px;  overflow: hidden; ">
-        
-        <%--开关量--%>  
-        <%--模拟量--%>
-        <%--模拟量--%>
-
+        <%--标签粘贴处--%>
+        <%--<button onclick="CheckTags()">检查标签</button>--%>
 
         <%--表1第一行--%>
         <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_SL_5F3_4.sp_1>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 139px; left: 227px; position:absolute;color:#4cff00;text-align:right; height: 26px; right: 1213px;"></div>
@@ -197,7 +194,7 @@
         <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LDP>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 715px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
         <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LDC>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 837px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
         <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LMP>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 959px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LMC>DCS138" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 1082px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LMC>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 1082px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
         <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LYP>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 1204px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
         <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_sbdz_45_LYC>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:117px; display:block; top: 647px; left: 1325px; position:absolute;color:#4cff00;text-align:right; height: 25px; right: 1213px;"></div>
          <%--表2第六行--%>

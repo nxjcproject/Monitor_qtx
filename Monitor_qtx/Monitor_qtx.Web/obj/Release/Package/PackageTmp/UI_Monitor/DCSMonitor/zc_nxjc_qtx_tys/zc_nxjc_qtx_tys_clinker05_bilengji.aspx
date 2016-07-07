@@ -39,7 +39,7 @@
 </head>
     <body id="SubMonitorBody" style="margin: 0px; padding: 0px; overflow: auto;">
     <div id="SubMonitorLayout" style="position: relative; background-image: url('../../images/page/DCS/zc_nxjc_qtx_tys/zc_nxjc_qtx_tys_clinker05_bilengji.png'); width: 1558px; height: 809px; overflow: hidden;">
-       <%--<button onclick="CheckTags()">检查标签</button>--%>
+     <%--<button onclick="CheckTags()">检查标签</button>--%>
          <%--模拟量--%>
        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33009Z01_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:54px; display:block; top:82px; left: 975px;  position:absolute;color:#4cff00;text-align:right; height: 16px;"></div>
        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33002P07_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width:55px; display:block; top:115px; left: 688px;  position:absolute;color:#4cff00;text-align:right; height: 16px;"></div>
@@ -156,7 +156,7 @@
           <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33002aM4_RD>BoolSignal" style="position: absolute; top:650px; left: 233px; height: 22px; width: 22px;" data-option="RelatedTags='dcs02_T33002aM4_RD,dcs02_T33002aM4_RN,dcs02_T33002aM4_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
           <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33002cM_RD>BoolSignal" style="position: absolute; top:507px; left: 803px; height: 36px; width: 36px;" data-option="RelatedTags='dcs02_T33002cM_RD,dcs02_T33002cM_RN,dcs02_T33002cM_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
           <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33003M_RD>BoolSignal" style="position: absolute; top:622px; left: 807px; height: 20px; width: 20px;" data-option="RelatedTags='dcs02_T33003M_RD,dcs02_T33003M_RN,dcs02_T33003M_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
-        
+          <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T330ST_RD>BoolSignal" style="position: absolute; top:61px; left: 857px; height: 21px; width: 20px;" data-option="RelatedTags='dcs02_T330ST_RD,dcs02_T330ST_RN,dcs02_T330ST_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
           <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33004M_RD>BoolSignal" style="position: absolute; top:623px; left: 894px; height: 20px; width: 20px;" data-option="RelatedTags='dcs02_T33004M_RD,dcs02_T33004M_RN,dcs02_T33004M_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
           <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33005M_RD>BoolSignal" style="position: absolute; top:622px; left: 985px; height: 20px; width: 20px;" data-option="RelatedTags='dcs02_T33005M_RD,dcs02_T33005M_RN,dcs02_T33005M_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
           <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33008M_RD>BoolSignal" style="position: absolute; top:622px; left: 1253px; height: 20px; width: 20px;" data-option="RelatedTags='dcs02_T33008M_RD,dcs02_T33008M_RN,dcs02_T33008M_ERR',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
@@ -186,15 +186,73 @@
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_TLLJ_RD>BoolSignal" style="position: absolute; top:288px; left: 872px; height: 23px; width: 15px;" data-option="RelatedTags='dcs02_TLLJ_RD,dcs02_TLLJ_RN,dcs02_TLLJ_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33011AR_RD>BoolSignal" style="position: absolute; top:245px; left: 1239px; height: 24px; width: 14px;" data-option="RelatedTags='dcs02_T33011AR_RD,dcs02_T33011AR_RN,dcs02_T33011AR_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T330E05AH_RD>BoolSignal" style="position: absolute; top:164px; left: 1481px; height: 23px; width: 14px;" data-option="RelatedTags='dcs02_T330E05AH_RD,dcs02_T330E05AH_RN,dcs02_T330E05AH_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
-  
+    <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33012EH_RD>BoolSignal" style="position: absolute; top:311px; left: 1486px; height: 15px; width: 11px;" data-option="RelatedTags='dcs02_T33012EH_RD,dcs02_T33012EH_RN,dcs02_T33012EH_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>   
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33011AH1_RD>BoolSignal" style="position: absolute; top:55px; left: 1157px; height: 17px; width: 14px;" data-option="RelatedTags='dcs02_T33011AH1_RD,dcs02_T33011AH1_RN,dcs02_T33011AH1_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33011AH2_RD>BoolSignal" style="position: absolute; top:55px; left: 1224px; height: 17px; width: 14px;" data-option="RelatedTags='dcs02_T33011AH2_RD,dcs02_T33011AH2_RN,dcs02_T33011AH2_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33011AH3_RD>BoolSignal" style="position: absolute; top:54px; left: 1294px; height: 17px; width: 14px;" data-option="RelatedTags='dcs02_T33011AH3_RD,dcs02_T33011AH3_RN,dcs02_T33011AH3_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
-    <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33011AH4_RD>BoolSignal" style="position: absolute; top:55px; left: 1353px; height: 17px; width: 14px;" data-option="RelatedTags='dcs02_T33011AH4_RD,dcs02_T33011AH4_RN,dcs02_T33011AH4_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
-          
+    <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33011AH4_RD>BoolSignal" style="position: absolute; top:55px; left: 1353px; height: 17px; width: 14px;" data-option="RelatedTags='dcs02_T33011AH4_RD,dcs02_T33011AH4_RN,dcs02_T33011AH4_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>             
+    <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_T33002aM6_RD>BoolSignal" style="position: absolute; top:754px; left: 47px; height: 18px; width: 11px;" data-option="RelatedTags='dcs02_T33002aM6_RD,dcs02_T33002aM6_RN,dcs02_T33002aM6_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>            
     <div class="BoolSignal mchart" id="zc_nxjc_qtx_tys>dcs02_YTKYZ_PRN>BoolSignal" style="position: absolute; top:589px; left: 132px; height: 34px; width: 18px;" data-option="RelatedTags='dcs02_W32001JS_PMT',Display='0:yellowS,1:greenS'"></div>
-
-
+        
+        <%--文字信息--%>    
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_AM>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 59px; left: 1478px; bottom: 739px;"data-option="Display='1'">远方控制</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_TP>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 58px; left: 1402px;  "data-option="Display='1'">电机保护跳闸</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_BRN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 74px; left: 1478px;  "data-option="Display='1'">变频状态</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_GRN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 89px; left: 1478px;  "data-option="Display='1'">工频状态</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_RN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 104px; left: 1478px; width: 56px;"data-option="Display='1'">运行状态</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_ST>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 119px; left: 1478px; width: 54px;"data-option="Display='1'">停止状态</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_DJ>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 134px; left: 1478px; width: 56px;"data-option="Display='1'">待机状态</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_BRD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 148px; left: 1467px; width: 81px;"data-option="Display='1'">高压柜允许合闸</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_ALM>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 73px; left: 1402px;  "data-option="Display='1'">电机微机告警</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_FL>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 225px; left: 1461px;  "data-option="Display='1'">轻故障</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33012M_FL1>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 211px; left: 1461px;  "data-option="Display='1'">重故障</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33011AR_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 226px; left: 1236px;  "data-option="Display='1'">故障</div>  
+  <div id="zc_nxjc_qtx_tys>dcs02_T33011AH4_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 37px; left: 1352px;  "data-option="Display='1'">故障</div>  
+  <div id="zc_nxjc_qtx_tys>dcs02_T33011AH3_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 36px; left: 1291px;  "data-option="Display='1'">故障</div>  
+  <div id="zc_nxjc_qtx_tys>dcs02_T33011AH2_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 36px; left: 1221px;  "data-option="Display='1'">故障</div>  
+  <div id="zc_nxjc_qtx_tys>dcs02_T33011AH1_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 36px; left: 1153px;  "data-option="Display='1'">故障</div>  
+  <div id="zc_nxjc_qtx_tys>dcs02_T330E05AH_TP>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 477px; left: 1352px;  "data-option="Display='1'">高压柜保护跳闸</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T330E05AH_ALM>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 490px; left: 1352px;  "data-option="Display='1'">高压柜装置告警</div>
+ 
+  <div id="zc_nxjc_qtx_tys>dcs02_T33003M_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 794px; left: 760px;  "data-option="Display='1'">故障</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33003M_ZQD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 794px; left: 790px; width: 44px;"data-option="Display='1'">正启动</div>
+    
+    <div id="zc_nxjc_qtx_tys>dcs02_T33004M_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 794px; left: 849px;  "data-option="Display='1'">故障</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33004M_ZQD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 794px; left: 879px; width: 44px;"data-option="Display='1'">正启动</div>
+    
+    <div id="zc_nxjc_qtx_tys>dcs02_T33005M_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 794px; left: 939px; height: 10px; width: 26px;"data-option="Display='1'">故障</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33005M_ZQD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 794px; left: 972px; width: 44px;"data-option="Display='1'">正启动</div>
+    
+  <div id="zc_nxjc_qtx_tys>dcs02_T33006M_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 794px; left: 1027px;  "data-option="Display='1'">故障</div>
+  <div id="zc_nxjc_qtx_tys>dcs02_T33006M_ZQD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 794px; left: 1058px; width: 44px;"data-option="Display='1'">正启动</div>
+    
+    <div id="zc_nxjc_qtx_tys>dcs02_T33007M_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 794px; left: 1119px;  "data-option="Display='1'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33007M_ZQD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 794px; left: 1151px; width: 44px;"data-option="Display='1'">正启动</div>
+        
+    <div id="zc_nxjc_qtx_tys>dcs02_T33008M_FLT>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 794px; left: 1209px;  "data-option="Display='1'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33008M_ZQD>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 794px; left: 1240px; width: 44px;"data-option="Display='1'">正启动</div>
+        
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR1_FL>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 474px; left: 121px;  "data-option="Display='1'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_YTKYZ_FL>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 608px; left: 98px;  "data-option="Display='1'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33001AR_T_H>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 651px; left: 58px;  "data-option="Display='1'">邮箱温度高报</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33001AR_T_HH>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 668px; left: 58px;  "data-option="Display='1'">邮箱温度高高报</div>
+        
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002aM3_P_H>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 741px; left: 329px;  "data-option="Display='1'">报警</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002aM2_P_H>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 741px; left: 448px;  "data-option="Display='1'">报警</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002aM1_P_H>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 740px; left: 548px;  "data-option="Display='1'">报警</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_FL>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 537px; left: 239px;  "data-option="Display='1'">故障</div>
+        
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_P5RN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 779px; left: 138px;  "data-option="Display='0'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_P4RN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 660px; left: 266px;  "data-option="Display='0'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_P3RN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 661px; left: 368px;  "data-option="Display='0'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_P2RN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 660px; left: 471px;"data-option="Display='0'">故障</div>
+        
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_P1RN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:red;position:absolute; top: 657px; left: 572px;"data-option="Display='0'">故障</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_M3>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 645px; left: 368px; width: 44px;"data-option="Display='1'">备用M3</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_M2>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 644px; left: 471px; width: 44px;"data-option="Display='1'">备用M2</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_T33002AR_M1>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 641px; left: 572px; width: 44px;"data-option="Display='1'">备用M1</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_YTKYZ_RRN>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 591px; left: 65px; "data-option="Display='1'">加油泵运行</div>
+    <div id="zc_nxjc_qtx_tys>dcs02_YTKQP_AM>DCS" class="TextDisplay" style="font-size: 8.0pt;color:#4cff00;position:absolute; top: 323px; left: 83px; width: 44px;"data-option="Display='1'">中控控制</div>
 
     </div>
 </body>

@@ -36,17 +36,22 @@
     
     <script>
         publicData.organizationId = "zc_nxjc_qtx_efc";
-        publicData.sceneName = "4#水泥包装";
+        publicData.sceneName = "4#水泥配料";
     </script>
 </head>
 
 <body id="SubMonitorBody" style="margin: 0px; padding: 0px; overflow: auto;">
     <div id="SubMonitorLayout" style="position: relative; background-image: url('../../images/page/DCS/zc_nxjc_qtx_efc/zc_nxjc_qtx_efc_cementmill01_snpl.png'); width: 1480px; height: 760px; overflow: hidden;">
     <%--标签粘贴处--%>
+        <%--<button onclick="CheckTags()">检查标签</button>--%>
       <%--张成凤--%>
 
 
        <%--开关量--%>
+                <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1_10M_RN1>BoolSignal" style="position: absolute; top: 209px; left: 114px; height: 19px; width: 19px;" data-option="RelatedTags='Cement01_L1_10M_RN1',Display='0:grayC,1:greenC'"></div>
+                <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1_8M_RN1>BoolSignal" style="position: absolute; top: 210px; left: 287px; height: 19px; width: 19px;" data-option="RelatedTags='Cement01_L1_8M_RN1',Display='0:grayC,1:greenC'"></div>
+                <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1_6M_RN1>BoolSignal" style="position: absolute; top: 116px; left: 660px; height: 19px; width: 19px;" data-option="RelatedTags='Cement01_L1_6M_RN1',Display='0:grayC,1:greenC'"></div>
+        
         <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1_11M_RD>BoolSignal" style="position: absolute; top: 250px; left: 174px; height: 19px; width: 19px;" data-option="RelatedTags='Cement01_L1_11M_RD,Cement01_L1_11M_RN,Cement01_L1_11M_ALM',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
         <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1_9M_RD>BoolSignal" style="position: absolute; top: 251px; left: 345px; height: 19px; width: 19px;" data-option="RelatedTags='Cement01_L1_9M_RD,Cement01_L1_9M_RN,Cement01_L1_9M_ALM',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
         <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1_5M_RD>BoolSignal" style="position: absolute; top: 254px; left: 403px; height: 19px; width: 19px;" data-option="RelatedTags='Cement01_L1_5M_RD,Cement01_L1_5M_RN,Cement01_L1_5M_ALM',Display='000:grayC,001:redCB,010:greenC,011:redCB,100:yellowC,101:redC,110:greenC,111:redC'"></div>
@@ -79,36 +84,42 @@
         <div class="BoolSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L1M_RD>BoolSignal" style="position: absolute; top:656px; left: 1201px; height: 13px; width: 39px;" data-option="RelatedTags='Cement01_L1M_RD,Cement01_L1M_RN,Cement01_L1M_ERR',Display='000:grayS,001:redSB,010:greenS,011:redSB,100:yellowS,101:redS,110:greenS,111:redS'"></div>
 
         <%--模拟量--%>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC2_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 339px; left: 134px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1292px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 339px; left: 322px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1104px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 338px; left: 501px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 925px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 339px; left: 683px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 743px;"></div>
-        <%--与上重<div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 340px; left: 937px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 489px;"></div>--%>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_MLT12_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 341px; left: 1122px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 304px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_M76M_I_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 207px; left: 1226px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 200px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC2_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 533px; left: 118px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1308px; bottom: 205px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC2_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 558px; left: 118px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1308px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 533px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1107px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 558px; left: 319px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1107px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 533px; left: 504px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 922px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 558px; left: 504px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 922px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 532px; left: 696px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 730px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 557px; left: 696px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 730px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L3AC_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 532px; left: 905px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 521px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L3AC_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 555px; left: 905px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 521px;"></div>
-        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_M78AC_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 532px; left: 1131px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 295px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC2_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 323px; left: 129px; position: absolute; color: blue; text-align: right; height: 22px; right: 1297px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 315px; left: 309px; position: absolute; color: blue; text-align: right; height: 22px; right: 1117px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 319px; left: 487px; position: absolute; color: blue; text-align: right; height: 22px; right: 939px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 324px; left: 681px; position: absolute; color: blue; text-align: right; height: 22px; right: 745px;"></div>
+<%--        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_L_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 312px; left: 938px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 488px;"></div>--%>
+        <div class="Conflict"  data-option="id='zc_nxjc_qtx_efc>Cement01_L7AC1_L_R>DCS'" style="width: 54px; display: block; top: 311px; left: 939px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 487px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_MLT12_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 316px; left: 1128px; position: absolute; color: blue; text-align: right; height: 22px; right: 298px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_M76M_I_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 212px; left: 1225px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 201px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC2_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 540px; left: 120px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1306px; bottom: 198px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC2_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 568px; left: 118px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1308px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 536px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1121px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 560px; left: 304px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 1122px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 533px; left: 492px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 934px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 558px; left: 492px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 934px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 532px; left: 679px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 747px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L7AC1_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 557px; left: 681px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 745px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L3AC_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 534px; left: 904px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 522px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_L3AC_F_LJ>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 558px; left: 904px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 522px;"></div>
+        <div class="AnlogSignal mchart" id="zc_nxjc_qtx_efc>Cement01_M78AC_F_R>DCS" data-option="Alarm='HH,H,LL,L',Range='Max,Min'" style="width: 54px; display: block; top: 531px; left: 1125px; position: absolute; color: #4cff00; text-align: right; height: 22px; right: 301px;"></div>
         
         <%--汉字隐藏--%>
         <div id="zc_nxjc_qtx_efc>Cement01_L1_10M_FT>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 193px; left: 105px; color: red; text-align: center; height: 14px; right: 1339px; bottom: 553px;">故障</div>
         <div id="zc_nxjc_qtx_efc>Cement01_L1_8M_FT>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 194px; left: 278px; color: red; text-align: center; height: 14px; right: 1166px; bottom: 552px;">故障</div>
         <div id="zc_nxjc_qtx_efc>Cement01_L1_6M_FT>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 96px; left: 651px; color: red; text-align: center; height: 14px; right: 793px; bottom: 650px;">故障</div>
-        <div id="zc_nxjc_qtx_efc>Cement01_L1_L1_2M_FT>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 114px; left: 800px; color: red; text-align: center; height: 35px; right: 668px; bottom: 611px;">故障</div>
+        <div id="zc_nxjc_qtx_efc>Cement01_L1_2M_FT>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 114px; left: 800px; color: red; text-align: center; height: 35px; right: 668px; bottom: 611px;">故障</div>
         <div id="zc_nxjc_qtx_efc>Cement01_L1_1M_FT>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 414px; left: 844px; color: red; text-align: center; height: 14px; right: 600px; bottom: 332px;">故障</div>
         <div id="zc_nxjc_qtx_efc>Cement01_LM4AC_FL>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 13px; top: 610px; left: 1134px; color: red; text-align: center; height: 14px; right: 310px; bottom: 136px;">故障</div>
         <div id="zc_nxjc_qtx_efc>Cement01_L1_3M_LMF>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 14px; top: 166px; left: 676px; color: #4cff00; text-align: center; height: 14px; right: 781px; bottom: 580px;">开</div>
         <div id="zc_nxjc_qtx_efc>Cement01_L1_3M_LMR>DCS" class="TextDisplay" data-option="Display='1'" style="position: absolute; font-size: 14px; top: 166px; left: 729px; color: #4cff00; text-align: center; height: 14px; right: 724px; bottom: 580px;">关</div>
-
-
+<%--棒图--%>
+        <div class="BarGraph mchart" id="zc_nxjc_qtx_efc>Cement01_MLT12_R>BarGraph"  style="border-style: solid; border-color: inherit; border-width: 1px; width:10px;height:106px; position:absolute; top: 300px; left: 1206px;"></div>
+        <div class="Conflict"  data-option="id='zc_nxjc_qtx_efc>Cement01_L8AC2_L_R>BarGraph'"  style="border-style: solid; border-color: inherit; border-width: 1px; width:10px;height:103px; position:absolute; top: 296px; left: 1010px;"></div>
+        <div class="Conflict"  data-option="id='zc_nxjc_qtx_efc>Cement01_L8AC2_L_R>BarGraph'"  style="border-style: solid; border-color: inherit; border-width: 1px; width:10px;height:106px; position:absolute; top: 305px; left: 764px;"></div>
+        <div class="Conflict"  data-option="id='zc_nxjc_qtx_efc>Cement01_L8AC2_L_R>BarGraph'"  style="border-style: solid; border-color: inherit; border-width: 1px; width:10px;height:106px; position:absolute; top: 300px; left: 572px;"></div>
+        <div class="BarGraph mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC2_L_R>BarGraph"  style="border-style: solid; border-color: inherit; border-width: 1px; width:10px;height:106px; position:absolute; top: 302px; left: 393px;"></div>
+        <div class="BarGraph mchart" id="zc_nxjc_qtx_efc>Cement01_L8AC1_L_R>BarGraph"  style="border-style: solid; border-color: inherit; border-width: 1px; width:10px;height:106px; position:absolute; top: 305px; left: 218px;"></div>
 
 
 
